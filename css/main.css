@@ -1,7 +1,7 @@
 :root {
   --pri-todo: rgb(253, 246, 229);
   --pri-text: #000;
-  --sub-text: rgb(45, 46, 33);
+  --sub-text: #000;
   --pri-bg: rgb(253, 231, 231);
   --color-footer: rgb(0, 0, 0);
 }
